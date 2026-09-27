@@ -1,0 +1,7 @@
+{
+  "size_error_code": "E_BAD_SIZE",
+  "tick_error_code": "E_BAD_TICK",
+  "size": 4,
+  "before": [3, 7, 4, 3, 9, 0],
+  "after": [3, 7, 4, 3, 9, 0, 5, 6, 10, 11]
+}
